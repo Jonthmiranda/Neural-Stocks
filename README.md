@@ -79,6 +79,6 @@ MAP: 1.95
 
 Percentage: 58.70%
 
-## Improvements
+## Version
 
 1.1-> Added more calculations and graph
