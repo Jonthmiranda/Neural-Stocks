@@ -45,6 +45,7 @@ Depois de você escolher o código irá buscar o histórico de valores no Yahoo 
 - Foi levado em conta 2% de tolerancia a erros para os resultados 
 
 - APPLE
+
 Durante o desenvolvimento foi usado a AAPL para testes, isso quer dizer as ações da apple foram avaliadas mais vezes pela rede neural, e é claro, resultados mais precisos
 
 Valores reais: 169.35, 143.11, 164.13...
@@ -57,7 +58,8 @@ MAPE: 0.73 (MAPE vai de 0 á 100, quanto mais perto do 0, mais correto está o m
 
 Porcentagem de acerto dentro de 2% de tolerancia: 96.01% (de 0% á 100%, quanto mais proximo ao 100%, mais identicos estão os valores reais e os valores previstos
 
-- Microsoft:
+- Microsoft
+
 Microsoft foi mostrado algumas vezes para o modelo
 
 R2: 0.99
@@ -67,6 +69,7 @@ MAPE: 0.78
 Porcentagem: 94.52%
 
 - Nubank
+
 Nubank foi mostrado para o modelo somente esta vez
 
 R2: 0.99
@@ -76,6 +79,7 @@ MAPE: 1.51
 Porcentagem: 78.19%
 
 - Nvidia
+
 Nvidia nunca foi mostrado e foi usado um período maior do histórico de valores
 
 R2: 0.99
