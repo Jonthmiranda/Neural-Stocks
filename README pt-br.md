@@ -1,4 +1,4 @@
-Português | [English]()
+Português | [English](https://github.com/Jonthmiranda/Neural-Stocks/blob/main/README.md)
 
 # Neural-Stocks 1.1
 
