@@ -69,7 +69,7 @@ Nubank was shown the model only this time
 
 R2: 0.99
 
-MAP: 1.51
+MAPE: 1.51
 
 Percentage: 78.19%
 
@@ -79,7 +79,7 @@ Nvidia was never shown and a longer period of value history was used
 
 R2: 0.99
 
-MAP: 1.95
+MAPE: 1.95
 
 Percentage: 58.70%
 
