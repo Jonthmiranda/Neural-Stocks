@@ -23,7 +23,6 @@ target = data['Adj Close']
 
 
 # Normalizando os dados, aprende a média e o desvio padrão de cada caracteristica
-#???
 scaler = StandardScaler()
 features_scaled = scaler.fit_transform(features)
 
